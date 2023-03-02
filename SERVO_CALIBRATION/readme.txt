@@ -1,7 +1,7 @@
 ##
 ## SERVO DS3235SG
 
-<img src="/Illustrations/yellow2.png" height="300" />
+<img src="/SERVO_CALIBRATION/ds3235sg-servo.jpg" height="300" />
 
 ## SSS
 - Watch the step by step build videos on my 
