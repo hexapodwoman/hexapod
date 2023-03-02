@@ -1,1 +1,11 @@
-## test
+##
+## SERVO DS3235SG
+
+<img src="/Illustrations/yellow2.png" height="300" />
+
+## SSS
+- Watch the step by step build videos on my 
+- [YouTube channel](https://www.youtube.com/makeyourpet).<br>
+- For build questions and to connect with the community join my [Discord server](https://discord.gg/vb8YWMfBuk).<br>
+- A [wiring diagram](/wiring-diagram-servo2040.png) that you may find useful.<br>
+-
