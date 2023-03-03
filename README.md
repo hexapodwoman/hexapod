@@ -1,6 +1,6 @@
 ##
 ## PLEASE NOTE THIS IS A FORK OF BUILDYOURPET REPO
-Hello Everyone, this is a fork of the original BuildYourPet Animatronic Hexapod Project by xxx. 
+Hello Everyone, this is a fork of the original BuildYourPet Hexapod Project by xxx. 
 In this fork, I'm focusing on keeping things simple, a good quality build manual, with a worldwide standard shopping list and some other nice additions. The build manual is downloadable in PDF format and printable (with sections for notes and guidance) that you can carry around with you.
 
 <img src="/Illustrations/yellow2.png" height="300" />
